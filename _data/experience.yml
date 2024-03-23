@@ -1,19 +1,7 @@
 # Jobs
 # VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: Capgemini
+  position: Software Engineer - MuleSoft
+  duration: Nov, 2020 &mdash; Aug 2022
+  summary:  <ul class="resume-item-list"><li>•	Built, tested, and deployed scalable Restful API’s, highly available and modular software products by using Mule ESB, Postman, Any point Studio, Data Weave and RAML. While doing migration from mule3 to mule4. Saved 15hrs on each API for 50 API’s by using integration techniques. Wrote Junit test cases for automation.</li><li>•	Collaborated with 11 other teammates in developing APIs to classify the types and moisture of coal with 97.8% accuracy, this Streamlined data preprocessing using a data pipeline and trained models. </li><li>•	Eliminated 40% of configuration errors in the existing framework through debugging and code review. </li><li>•	Created software requirements documents for new and existing features and devised robust designs with a focus on scalability, high performance, and maintainability of REST-based APIs as a part of the project implementation</li><li>•	Execute API calls targeting Salesforce SOAP, REST, Bulk, and Streaming API, depending on the operation configured. </li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-
-
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.

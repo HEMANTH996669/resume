@@ -1,15 +1,10 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: PETA
-  role: Volunteer
-  year: 2001 &mdash; 2010
-  url: https://www.peta.org/
-  summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
+- organization: ACCOMPLISHMENTS
+  summary: MuleSoft Certified Developer - Level 1 by MuleSoft, Cloud Computing by NPTEL, Google Cloud Essentials by
+Google, Qlik Business Analyst Certificate, Dell Boomi Integration Professional Developer Certification 2021 by Dell
+Boomi, Python for Everybody Certification by Coursera, Agile Software Development by Coursera.
 
 
-- organization: Yale Amnesty International
-  role: Communications coordinator
-  year: 2002 &mdash; 2004
-  url: http://campuspress.yale.edu/amnesty/
-  summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
+
