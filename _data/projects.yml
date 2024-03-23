@@ -3,16 +3,16 @@
 
 # jazznotes.io
 - project: Speech Emotion Recognition using Deep Learning, Arizona State University 
-description: developed a specialized Convolutional Neural Network (CNN) model to accurately identify emotions from speech audio recordings. Our approach includes innovative techniques, diverse datasets, and an extension on Scam Detection through Voice Analysis. Currently achieving an impressive 96.15% accuracy with the CNN model.
+  description: developed a specialized Convolutional Neural Network (CNN) model to accurately identify emotions from speech audio recordings. Our approach includes innovative techniques, diverse datasets, and an extension on Scam Detection through Voice Analysis. Currently achieving an impressive 96.15% accuracy with the CNN model.
 
 
 # Springfield Community Outreach Group
 - project: End to End Spring Boot Microservices project 
-description: Online shopping project. Included services like product, order, inventory, notification. Databases used are MySQL and MongoDB. Message Queue used are Kafka. Other services used are Eureka, Elastic Search, Logstash, Kibana.
+  description: Online shopping project. Included services like product, order, inventory, notification. Databases used are MySQL and MongoDB. Message Queue used are Kafka. Other services used are Eureka, Elastic Search, Logstash, Kibana.
 
 
 - project: Apache Spark Project End to End Data Pipeline project
-description: From taking ecommerce data to doing data processing to giving insights. Used Kafka, Spark, Hadoop, python, MySQL, Cassandra, Superset.  
+  description: From taking ecommerce data to doing data processing to giving insights. Used Kafka, Spark, Hadoop, python, MySQL, Cassandra, Superset.  
 
 
 
