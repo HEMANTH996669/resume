@@ -1,7 +1,7 @@
 # Degree
-- company: Bachelor of Technology, Information Technology
-  position: Vidya Jyothi Institute of Technology
-  duration: 2016 &mdash; 2020
+- degree: Bachelor of Technology, Information Technology
+  uni: Vidya Jyothi Institute of Technology
+  year: 2016 &mdash; 2020
   summary: <ul class="resume-item-list"><li> Data Structures, Software Engineering, Cloud Computing, Programming with C, C++, and Python. </li><li>Received Dean’s Merit scholarship for all four years for placing within the top 10 among 1050 students.</li></ul> 
 
 
@@ -9,4 +9,4 @@
 - degree: MS Computer Science
   uni: Arizona State University
   year: August 2022 &mdash; may 2024
-  Course Work: <ul class="resume-item-list"><li>Data Visualization, Data Mining, Data Processing at Scale, Semantic Web Mining, Database Management System Implementation, Info Assurance and Security, Mobile Computing, Foundations of Machine Learning, and Knowledge Representation.</li> <li>Worked IA for Mobile Computing and Grader for Computer Literacy.</li></ul> 
+  summary: <ul class="resume-item-list"><li>Data Visualization, Data Mining, Data Processing at Scale, Semantic Web Mining, Database Management System Implementation, Info Assurance and Security, Mobile Computing, Foundations of Machine Learning, and Knowledge Representation.</li> <li>Worked IA for Mobile Computing and Grader for Computer Literacy.</li></ul> 
