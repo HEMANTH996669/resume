@@ -3,7 +3,7 @@
 
 # jazznotes.io
 - project: Speech Emotion Recognition using Deep Learning, Arizona State University 
-  description:developed a specialized Convolutional Neural Network (CNN) model to accurately identify emotions from speech audio recordings. Our approach includes innovative techniques, diverse datasets, and an extension on Scam Detection through Voice Analysis. Currently achieving an impressive 96.15% accuracy with the CNN model.
+  description: developed a specialized Convolutional Neural Network (CNN) model to accurately identify emotions from speech audio recordings. Our approach includes innovative techniques, diverse datasets, and an extension on Scam Detection through Voice Analysis. Currently achieving an impressive 96.15% accuracy with the CNN model.
 
 
 # Springfield Community Outreach Group
