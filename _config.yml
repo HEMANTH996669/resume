@@ -10,20 +10,21 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Lisa M. Simpson"
-resume_title:                   "VP of Global Communications"
+resume_name:                    "Hemanth Pasula"
+resume_title:                   "Senior Software Engineer (open to work)"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "lisasimpson@youremailaddress.com"
+resume_contact_email:           "hemanthreddy996669@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+resume_contact_telephone:       "623-276-7734"
+resume_contact_address:         "Arizona, United States"
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
+resume_header_contact_info:     "1221 E Broadway Rd, Tempe, 85282, Arizona • United States• hemanthreddy996669@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p> 
+I am Hemanth Pasula, a results-driven professional with a passion for technology and a track record of academic and professional excellence. Currently pursuing my Masters in Computer Science at Arizona State University, I have honed my skills in software development, data engineering, and project management. With a solid foundation in programming languages such as Java, Python, and C++, coupled with expertise in technologies like MuleSoft, SQL, and AWS, I have excelled in roles such as MuleSoft Developer at Capgemini, India, where I optimized API development processes, achieved significant time savings, and collaborated on high-impact projects. My commitment to innovation extends beyond the workplace, as evidenced by my involvement in cutting-edge research projects, leadership roles in organizing hackathons and workshops, and a continuous pursuit of certifications to stay at the forefront of industry trends. As I continue to navigate the dynamic landscape of technology, I am driven by a relentless pursuit of excellence and a passion for making meaningful contributions to the field.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -44,16 +45,16 @@ resume_section_associations:    true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
-resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
+#resume_social_links:
+  #resume_github_url:            "https://github.com/HEMANTH996669"
+  #resume_twitter_url:           "http://twitter.com/jglovier"
+  #resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  #resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
-  resume_medium_url:            "https://medium.com/@jglovier"
-resume_print_social_links:      true
+  #resume_website_url:           "http://joelglovier.com"
+  #resume_medium_url:            "https://medium.com/@jglovier"
+#resume_print_social_links:      false
 
 # Design settings
 resume_theme:                   default
